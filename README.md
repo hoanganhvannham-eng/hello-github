@@ -1,3 +1,1 @@
-# Hello GitHub
-
-Đây là repository đầu tiên của tôi trên GitHub!
+Đã cập nhật README ở branch feature-readme-update.
